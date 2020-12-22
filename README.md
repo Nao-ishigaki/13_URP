@@ -1,13 +1,13 @@
 # URP
 シェーダグラフでシェーダを描いてみよう
 
-![結果画像](result.png)
+![結果画像](Result.png)
 
-![シェーダ](node_graph.png)
+![シェーダ](Node_Graph.png)
 
 # 自分なりに変更した点
--
--
+-下記サイトを参考にリムライティングをしてみました。
+　https://xr-hub.com/archives/10749
 -
 
 # 進め方
