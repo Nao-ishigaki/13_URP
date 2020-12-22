@@ -1,7 +1,7 @@
 # URP
 シェーダグラフでシェーダを描いてみよう
 
-![結果画像](Result.png)
+![結果画像](result.png)
 
 ![シェーダ](NodeGraph.png)
 
